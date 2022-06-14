@@ -5,8 +5,17 @@
 ## :rocket: 
 
 <p align="center">
-  <img src="" alt=" Portfolio Website">
+  <img src="https://github.com/rodrigovellinho/PortfolioWebsite/blob/main/dist/img/cover1.jpg?raw=true" alt=" Portfolio Website">
 </p>
+
+<p align="center">
+  <img src="https://github.com/rodrigovellinho/PortfolioWebsite/blob/main/dist/img/cover2.jpg?raw=true" alt=" Portfolio Website">
+</p>
+
+<p align="center">
+  <img src="https://github.com/rodrigovellinho/PortfolioWebsite/blob/main/dist/img/cover3.jpg?raw=true" alt=" Portfolio Website">
+</p>
+
 
 Portfolio website onde foram aplicados diversos conceitos de SCSS, responsividade com media queries, seletores, variáveis.
 
